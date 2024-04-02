@@ -8,10 +8,10 @@
 #define SIZE 20
 // Hello my name is peter manolis, the purpose of this code is to create a hangman game that is played by two users.
 // Step by Step:
-// 1. The first step i made a coint toss method that decides what user goes first.
-// 2. I make a newLines method that prints 250 new lines so the users cant cheat.
+// 1. The first step i made a coin toss method that decides which user goes first.
+// 2. I make a newLines method that prints 250 new lines so the users can't cheat.
 // 3. I made an arrays_equal method that checks if the user got every letter.
-// 4. I made a playgame method, this method conducst the entire game
+// 4. I made a playgame method, this method conducts the entire game
 // 5. It asks the users for their secret word
 // 6. The other user guesss until they have 6 incorrect guesses or they get it right
 // 7. After the first user goes, they flip sides
